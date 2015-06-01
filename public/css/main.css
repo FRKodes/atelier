@@ -1,0 +1,231 @@
+header {
+  background: transparent url("../../images/fondo-banner-atelier-taller-tipografia.jpg") no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  padding: 10px 0 0 10px;
+  text-align: left;
+  height: 250px;
+}
+header span {
+  display: inline-block;
+  font-size: 4.2rem;
+  height: 50px;
+  vertical-align: top;
+  margin-right: 20px;
+}
+header h1 {
+  display: block;
+  font-size: 10em;
+  text-align: center;
+  height: 80px;
+  width: 100%;
+  color: #fff;
+}
+ul.social {
+  display: inline-block;
+  padding: 5px 0 0 0;
+  position: relative;
+}
+ul.social li {
+  display: inline-block;
+  height: 50px;
+  padding: 0 5px;
+}
+ul.social li a {
+  color: #fff;
+  font-size: 2em;
+}
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Source Sans Pro', sans-serif;
+/*sections/courses*/
+}
+body h2 {
+  font-weight: bold;
+}
+body .cd-item h2,
+body .cd-item b {
+  color: #fff;
+}
+body .cd-item p {
+  font-style: italic;
+  font-size: 1em;
+}
+body .fabrica,
+body .acuarela,
+body .behance-01,
+body .behance-02,
+body .logos-cero-01,
+body .logos-cero-02 {
+  background-color: transparent url("../../images/behance-review-01.jpg") no-repeat center center;
+  background-size: cover;
+}
+body .logos-cero-01 {
+  background-image: url("../../images/logos-desde-cero-banner.jpg");
+}
+body .logos-cero-02 {
+  background-image: url("../../images/logos-desde-cero-02.jpg");
+}
+body .behance-01 {
+  background-image: url("../../images/behance-review-01.jpg");
+}
+body .fabrica {
+  background-image: url("../../images/logos-desde-cero-paco-calles.jpg");
+}
+body .acuarela {
+  background-image: url("../../images/taller-acuarela-atelier.jpg");
+}
+body .behance-02 {
+  background-image: url("../../images/behance-review-02.jpg");
+}
+body .contact {
+  padding: 20px 0;
+  text-align: center;
+}
+body .contact h2 {
+  font-size: 5em;
+}
+body .contact h3 {
+  font-size: 1.2em;
+  padding-bottom: 20px;
+}
+body .contact h3,
+body .contact p {
+  padding: 0 5%;
+}
+body .contact form {
+  margin: 30px auto 0 auto;
+  position: relative;
+  width: 90%;
+}
+body .contact form .line {
+  display: block;
+  height: auto;
+  overflow: hidden;
+  padding-bottom: 20px;
+  width: 100%;
+}
+body .contact form .line input[type="text"] {
+  background-color: #fff;
+  border: none;
+  font-size: 1.1em;
+  height: 30px;
+  padding: 5px;
+  width: 100%;
+}
+body .contact form .line textarea {
+  background-color: #fff;
+  border: none;
+  font-size: 1.1em;
+  height: 100px;
+  padding: 5px;
+  resize: none;
+  width: 100%;
+}
+body .contact form .line .submit_btn {
+  background-color: transparent;
+  border: 1px solid #999;
+  color: #999;
+  font-size: 1.1em;
+  padding: 5px 0;
+  text-transform: uppercase;
+  width: 50%;
+}
+body .contact form .line .submit_btn:hover {
+  cursor: pointer;
+}
+body .contact form .line.error input[type="text"],
+body .contact form .line.error textarea {
+  border: 1px solid #f00;
+}
+body .contact form .alert_fields {
+  color: #f00;
+  margin: 0 0 20px 0;
+  text-align: left;
+  display: none;
+}
+body .contact form .sent_mail_alert {
+  background-color: rgba(255,255,255,0.9);
+  color: #000;
+  top: 200px;
+  display: none;
+  margin-top: -200px;
+  position: absolute;
+  padding: 20px 30px;
+  text-align: center;
+}
+body hr {
+  width: 94%;
+  margin: 0 auto;
+}
+body footer {
+  text-align: center;
+  padding-bottom: 40px;
+}
+body footer .icon-03-1 {
+  font-size: 10em;
+  line-height: 0.4em;
+}
+body .cd-fold-content,
+body .logos-desde-cero {
+  background-color: #404040;
+}
+body .cd-fold-content figure,
+body .logos-desde-cero figure {
+  overflow: hidden;
+}
+body .cd-fold-content figure img,
+body .logos-desde-cero figure img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+body .cd-fold-content .features-logos li,
+body .logos-desde-cero .features-logos li {
+  padding: 5px 0;
+}
+body .cd-folding-panel .cd-close::after,
+body .cd-folding-panel .cd-close::before {
+  color: #fff;
+}
+@media screen and (min-width: 540px) {
+  body .contact h3,
+  body .contact p,
+  body .contact form {
+    width: 480px;
+    margin: 20px auto;
+  }
+}
+@media screen and (min-width: 600px) {
+  header {
+    padding: 10px 0 0 10px;
+    height: 300px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .cd-item {
+    height: 450px;
+  }
+  ul.social li a {
+    font-size: 3em;
+  }
+  header {
+    height: 500px;
+  }
+  header span {
+    display: inline-block;
+    font-size: 6.2rem;
+    height: 50px;
+    vertical-align: top;
+    margin-right: 20px;
+  }
+  header h1 {
+    display: block;
+    font-size: 14em;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    color: #fff;
+  }
+}
