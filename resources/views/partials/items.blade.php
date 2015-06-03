@@ -21,7 +21,7 @@
 		<a href="behance-reviews">
 			<div>
 				<h2>BEHANCE REVIEW</h2>
-				<p>16-Mayo-2015</p>
+				<p>Mayo 2014</p>
 				<b>Ver Más</b>
 			</div>
 		</a>
@@ -31,7 +31,7 @@
 		<a href="paco-calles-fabrica-de-letras">
 			<div>
 				<h2>FÁBRICA DE LETRAS</h2>
-				<p>16-Mayo-2015</p>
+				<p>Noviembre 2014</p>
 				<b>Ver más</b>
 			</div>
 		</a>
@@ -41,7 +41,7 @@
 		<a href="acuarela-basica">
 			<div>
 				<h2>ACUARELA BÁSICA</h2>
-				<p>16-Mayo-2015</p>
+				<p>Marzo 2014</p>
 				<b>Ver más</b>
 			</div>
 		</a>
@@ -51,7 +51,7 @@
 		<a href="behance-reviews">
 			<div>
 				<h2>BEHANCE REVIEW</h2>
-				<p>16-Mayo-2015</p>
+				<p>Mayo 2015</p>
 				<b>Ver más</b>
 			</div>
 		</a>

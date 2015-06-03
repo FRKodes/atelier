@@ -1,9 +1,7 @@
 <section class="contact">
 	<h2 class="icon-02-1 contact-icon"></h2>
-	<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, consequuntur, laboriosam! Illum, incidunt obcaecati voluptatem eos.
-	</p>
+	<h3>Tus mensajes son muy importantes para nosotros.</h3> <br><br>
+	<p>Déjanos saber cualquier duda o comentario, en breve nos pondremos en contacto contigo.</p>
 	{!! Form::open(['id'=>'contactForm', 'url'=>'sendmail'])!!}
 		<div class="line">{!! Form::input('text', 'name', null, ['placeholder'=>'*Nombre', 'data-validate'=>'required']) !!} </div>
 		<div class="line">{!! Form::input('text', 'company', null, ['placeholder'=>'Empresa/Organización']) !!}</div>

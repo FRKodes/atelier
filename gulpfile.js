@@ -15,13 +15,15 @@ elixir(function(mix) {
    mix.stylus('main.styl')
       .styles([
       	'public/css/reset.css',
-        'public/css/atelier-font.css',
+         'public/css/atelier-font.css',
       	'public/css/style.css',
+         'public/css/slick.css',
       	'public/css/main.css'
       	],'public/css/all.min.css', 'public/css')
       .scripts([
       	'public/js/modernizr.js',
       	'public/js/jquery.js',
+         'public/js/slick.min.js',
       	'public/js/main.js',
       	'public/js/custom.js'
       	],'public/js/custom-scripts.min.js', 'public/js')

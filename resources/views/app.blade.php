@@ -9,9 +9,14 @@
 			<header>
 				<span class="icon-01-1"></span>
 				@include('partials.social-menu')
-				<h1 class="icon-03-1"></h1>
+				<div class="carousel-stuff">
+				  <div><h1 class="icon-03-1"></h1></div>
+				  <div>
+				  	<p><strong>Visión</strong><br>Promover la cultura del diseño entre la comunidad de diseñadores y la población local.</p> <br><br>
+				  	<p><strong>Misión</strong><br>Generar cultura del diseño en la comunidad por medio de talleres, conferencias, actividades, muestras, etc.</p>
+				  </div>
+				</div>
 			</header>
-
 			@include('partials.items')
 			
 		</main> <!-- .cd-main -->

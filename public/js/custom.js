@@ -49,3 +49,10 @@ $(function(){
     };
     var $validate = $('#contactForm').validate(formSettings).data('validate');
 });
+
+$(document).ready(function(){
+  $('.carousel-stuff').slick({
+    autoplay : true,
+    autoplaySpeed : 5000
+  });
+});

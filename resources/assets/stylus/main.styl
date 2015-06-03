@@ -2,22 +2,22 @@ header
 	background transparent url(../../images/fondo-banner-atelier-taller-tipografia.jpg) no-repeat center center
 	background-size cover
 	color white
+	height 250px
 	padding 10px 0 0 10px
 	text-align left
-	height 250px
 	span
 		display inline-block
 		font-size 4.2rem
 		height 50px
-		vertical-align top
 		margin-right 20px
+		vertical-align top
 	h1
+		color white
 		display block
 		font-size 10em
+		height 140px
 		text-align center
-		height 80px
 		width 100%
-		color white
 ul.social
 	display inline-block
 	padding 5px 0 0 0
@@ -29,6 +29,9 @@ ul.social
 		a
 			color white
 			font-size 2em
+button.slick-prev
+button.slick-next
+	display none
 body
 	background-color black
 	color white
@@ -42,6 +45,28 @@ body
 		p
 			font-style italic
 			font-size 1em
+	.slick-slider
+		display block
+		margin 0 auto 0 auto
+		p
+			font-size 1em
+			margin-bottom 10px
+			padding 0 40px
+			text-align center
+		.slick-prev
+		.slick-next
+			background-color transparent
+			border 1px solid white
+			border-radius 50%
+			color white
+			font-size 1.4em
+			height 40px
+			margin-top -20px
+			position absolute
+			top 50%
+			width 40px
+		.slick-next
+			right 10px
 	.fabrica
 	.acuarela
 	.behance-01
@@ -166,6 +191,11 @@ body
 	header
 		padding 10px 0 0 10px
 		height 300px
+	body
+		.slick-slider
+			margin 20px auto 0 auto
+			p
+				font-size 1.2em
 @media screen and (min-width:768px)
 	.cd-item
 		height 450px
@@ -188,3 +218,15 @@ body
 			height 80px
 			width 100%
 			color white
+	body
+		.slick-slider
+			display block
+			min-height 400px
+			padding-top 80px
+			h1
+				height 160px
+			p
+				font-size 1.3em
+				line-height 1.4em
+				margin 20px 0
+				padding 0 100px
