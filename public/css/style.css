@@ -383,7 +383,7 @@ folding panel
   width: 32px;
   left: 50%;
   top: 50%;
-  background-color: #544173;
+  background-color: #fff;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-transition: opacity 0.2s;

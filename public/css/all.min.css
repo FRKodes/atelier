@@ -490,7 +490,7 @@ folding panel
   width: 32px;
   left: 50%;
   top: 50%;
-  background-color: #544173;
+  background-color: #fff;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-transition: opacity 0.2s;
@@ -903,12 +903,15 @@ body .logos-desde-cero figure img {
   width: 100%;
 }
 body .cd-fold-content .features-logos li,
-body .logos-desde-cero .features-logos li {
+body .logos-desde-cero .features-logos li,
+body .cd-fold-content .acuarela-basica li,
+body .logos-desde-cero .acuarela-basica li {
   padding: 5px 0;
 }
-body .cd-folding-panel .cd-close::after,
-body .cd-folding-panel .cd-close::before {
+body .cd-fold-content a,
+body .logos-desde-cero a {
   color: #fff;
+  font-style: italic;
 }
 @media screen and (min-width: 540px) {
   body .contact h3,

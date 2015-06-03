@@ -39,6 +39,18 @@ class WelcomeController extends Controller {
 		return view('courses.logos');
 	}
 
+	public function acuarelaBasica(){
+		return view('courses.acuarela');
+	}
+
+	public function behanceReviews(){
+		return view('courses.behance');
+	}
+
+	public function pacoCalles(){
+		return view('courses.paco-calles');
+	}
+
 	public function sendmail()
 	{
 		Mail::send('emails.contacto', [], function($message){

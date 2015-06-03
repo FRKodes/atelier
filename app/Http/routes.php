@@ -13,5 +13,8 @@
 
 Route::get('/', 'WelcomeController@index');
 Route::get('logos-desde-cero', 'WelcomeController@logosDesdeCero');
+Route::get('acuarela-basica', 'WelcomeController@acuarelaBasica');
+Route::get('behance-reviews', 'WelcomeController@behanceReviews');
+Route::get('paco-calles-fabrica-de-letras', 'WelcomeController@pacoCalles');
 
 Route::post('sendmail', 'WelcomeController@sendmail');
