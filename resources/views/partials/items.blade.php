@@ -11,7 +11,7 @@
 		<a href="/logos-desde-cero">
 			<div>
 				<h2>LOGOS DESDE CERO</h2>
-				<p>16-Mayo-2015</p>
+				<p>10, 11 y 12 Julio</p>
 				<b>Ver Más</b>
 			</div>
 		</a>
