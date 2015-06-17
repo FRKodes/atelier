@@ -11,10 +11,10 @@
                         <table width='700' height='300' bgcolor='#000' cellpadding='0' cellspacing='0'>
                             <tbody>
                                 <tr height='100'> 
-                                    <td bgcolor='#f2f2f2' style='color:#fff' colspan='3'>ATELIER</td>
+                                    <td bgcolor='#404040' style='color:#fff' colspan='3'>ATELIER</td>
                                 </tr>
                                 <tr height='400'>
-                                    <td bgcolor='#fff' style='border-left:1px solid #f2f2f2;border-right:1px solid #f2f2f2;'>
+                                    <td bgcolor='#fff' style='border-left:1px solid #404040;border-right:1px solid #404040;'>
                                         <table style='font-family:sans-serif, Arial, Helvetica'>
                                             <tbody>
                                                 <tr>
@@ -33,7 +33,7 @@
                                         </table>
                                     </td>
                                 </tr>
-                                <tr bgcolor='#f2f2f2'>
+                                <tr bgcolor='#404040'>
                                     <td colspan='3'>
                                         <p style='font-family:Arial, Helvetica, sans-serif, Trebuchet MS;font-size:x-small;color:#fff;'>
                                             AVISO DE CONFIDENCIALIDAD: Este mensaje es confidencial y/o puede contener informaci&oacute;n privilegiada.

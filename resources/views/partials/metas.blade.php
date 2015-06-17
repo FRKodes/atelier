@@ -8,5 +8,6 @@
 <meta property="og:title" content="">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="">
+<meta name="_token" content="{{ csrf_token() }}" />
 <link rel="icon" href="{{ elixir('favicon.png')}}" type="image/png" sizes="32x32">
 <title>[ATELIER]</title>

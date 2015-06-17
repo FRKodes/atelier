@@ -51,10 +51,4 @@ class WelcomeController extends Controller {
 		return view('courses.paco-calles');
 	}
 
-	public function sendmail()
-	{
-		Mail::send('emails.contacto', [], function($message){
-			$message->to('frkalderon@gmail.com')->subject('Atelier contacto');
-		});
-	}
 }
