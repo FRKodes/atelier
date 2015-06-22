@@ -25,7 +25,7 @@
                                                         <p><b>Empresa:</b>  {{ Input::get('company') }} </p>
                                                         <p><b>Email:</b>  {{ Input::get('email') }} </p>
                                                         <p><b>Mensaje:</b>  {{ Input::get('message') }} </p>
-                                                        <p><a style='color:#3a6f8f;text-decoration:none;' href='http://www.cindybouquetboda.com' target='_blank'><span style='text-transform:uppercase;'></span><br>ATELIER</a></p>
+                                                        <p><a style='color:#3a6f8f;text-decoration:none;' href='http://www.atelierlab.com' target='_blank'><span style='text-transform:uppercase;'></span><br>ATELIER</a></p>
                                                     </td>
                                                     <td width='10'></td>
                                                 </tr>
