@@ -13,7 +13,7 @@ class PagesController extends Controller {
 	{		
 
 		Mail::send('emails.contacto', [], function($message){
-			$message->to('frkalderon@gmail.com')->subject('Atelier contacto');
+			$message->to('info@atelierlab.com.mx')->subject('Atelier contacto');
 		});
 	}
 
