@@ -50,5 +50,13 @@ class WelcomeController extends Controller {
 	public function pacoCalles(){
 		return view('courses.paco-calles');
 	}
+	
+	public function acuarelaMarisa(){
+		return view('courses.acuarela-marisa');
+	}
+
+	public function designingDesigners(){
+		return view('courses.designingDesigners');
+	}
 
 }

@@ -1,8 +1,11 @@
 <ul class="cd-gallery">
 
-	<li class="cd-item logos-cero-01">
-		<a href="/logos-desde-cero">
+	<li class="cd-item di25nando">
+		<a href="/paco-calles-disenando-disenadores">
 			<div>
+				<h2>DI25ÑANDO DISEÑADORES</h2>
+				<p>15, 16 y 17 Abril 2016</p>
+				<b>Ver Más</b>
 			</div>
 		</a>
 	</li>
@@ -11,7 +14,7 @@
 		<a href="/logos-desde-cero">
 			<div>
 				<h2>LOGOS DESDE CERO</h2>
-				<p>10, 11 y 12 Julio</p>
+				<p>10, 11 y 12 Julio 2015</p>
 				<b>Ver Más</b>
 			</div>
 		</a>
