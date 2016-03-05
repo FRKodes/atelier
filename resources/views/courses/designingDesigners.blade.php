@@ -59,9 +59,9 @@
 	
 	<p>
 		<b>4. Letrering / Lettering</b> <br>
-		pRasgos y florituras. <br>
-		pEnlaces y compensaciones. <br>
-		pVolúmenes y sombras. <br>
+		Rasgos y florituras. <br>
+		Enlaces y compensaciones. <br>
+		Volúmenes y sombras. <br>
 	</p>
 
 	<p>
@@ -80,33 +80,21 @@
 
 	<p>INCLUYE / 10 HORAS DE TALLER, ENTRADA A LA CONFERENCIA, CONSTANCIA, MATERIALES*, COFFEE BREAK, ESTACIONAMIENTO.</p>
 
-	<p>Materiales: </p>
+	<p>¿Qué tengo que llevar?</p>
 	
 	<p>Indispensable</p>
 
 	<ul>
-		<li>10 hojas doble tamaño carta de papel bond.</li>
-		<li>5 hojas tamaño doble carta de papel mantequilla o cebolla. Plumones negros de distintos grosores.</li>
-		<li>Lápices.</li>
+		<li>Plumones negros</li>
 		<li>Tijeras o cutter.</li>
-		<li>Masking tape.</li>
-		<li>Lápiz adhesivo.</li>
 		<li>Mucho entusiasmo y energía.</li>
 	</ul>
 
-	<p>Opcional. No compren, sólo lo que tengan.</p>
+	<p>(Opcional). No compren, sólo lo que tengan.</p>
 
 	<ul>
 		<li>Plumillas caligráficas con manguillo o plumas caligráficas Crayones y plumones viejos</li>
 		<li>Pinceles viejos redondos y planos de distintos grosores</li>
-	</ul>
-	
-	<p>Requerimientos para el salón:</p>
-
-	<ul>
-		<li>Pizarrón</li>
-		<li>Gises o plumones de colores Cañón para proyeccción Pantalla</li>
-		<li>Mesas para los participantes</li>
 	</ul>
 
 	<p>SOLO NECESITAS APARTAR CON <b>$500</b> PARA ASEGURAR TU LUGAR Y EL PRECIO ESPECIAL.</p>
@@ -117,16 +105,14 @@
 
 	<p>Objetivo:</p>
 	
-	<p>
-		El participante aprenderá y reconocerá los principios conceptuales, formales y técnicos de la tipografía por medio de la reflexión para facilitar su aplicación en distintos soportes gráficos.
-	</p>
+	<p>El participante aprenderá y reconocerá los principios conceptuales, formales y técnicos de la tipografía por medio de la reflexión para facilitar su aplicación en distintos soportes gráficos.</p>
 	
 	<p>Contenido:</p>
 	
 	<p>
-	<b>1. Principios letragráficos Tecnologías letragráficas</b> <br>
-	Diseño tipográfico. <br>
-	Funciones tipográficas. <br>
+		<b>1. Principios letragráficos Tecnologías letragráficas</b> <br>
+		Diseño tipográfico. <br>
+		Funciones tipográficas. <br>
 	</p>
 
 	<p>
@@ -162,13 +148,13 @@
 
 	<p>¿Qué tengo que llevar?</p>
 	
-	<p>
-		Cuaderno de notas. <br>
-		Revista para recortar. <br>
-		Tijeras o cutter. <br>
-		Ganas de aprender. <br>
-		Mucho entusiasmo y energía. <br>
-	</p>
+	<ul>
+		<li>Cuaderno de notas.</li>
+		<li>Revista para recortar.</li>
+		<li>Tijeras o cutter.</li>
+		<li>Ganas de aprender.</li>
+		<li>Mucho entusiasmo y energía.</li>
+	</ul>
 
 	<figure><img src="images/img_paco_calles.jpg" alt="Diseñando diseñadores"></figure> <br><br>
 
